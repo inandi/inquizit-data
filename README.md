@@ -1,1 +1,3 @@
 # inquizit-data
+
+version `1.0`
